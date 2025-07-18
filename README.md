@@ -1,10 +1,4 @@
-<a href="https://github.com/Minato116"><img src="https://img.shields.io/github/stars/sld-columbia/esp" alt="Stars Badge"/></a>
-<a href="https://github.com/Minato116"><img src="https://img.shields.io/github/forks/sld-columbia/esp" alt="Forks Badge"/></a>
-<a href="https://github.com/Minato116"><img src="https://img.shields.io/github/issues-pr/sld-columbia/esp" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/Minato116"><img src="https://img.shields.io/github/issues/sld-columbia/esp" alt="Issues Badge"/></a>
-<a href="https://github.com/Minato116"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/sld-columbia/esp?color=2b9348"></a>
-<br/>
-<br/>
+
 <br/>
 <table align="center">
   <tr>
